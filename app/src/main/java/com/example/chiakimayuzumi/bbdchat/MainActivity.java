@@ -12,4 +12,6 @@ public class MainActivity extends AppCompatActivity {
   }
 
   //测试分支转换
+
+  //测试本地master到本地code的转换
 }
