@@ -11,7 +11,4 @@ public class MainActivity extends AppCompatActivity {
     setContentView(R.layout.activity_main);
   }
 
-  //测试分支转换
-
-  //测试本地master到本地code的转换
 }
